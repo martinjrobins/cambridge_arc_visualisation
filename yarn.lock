@@ -9748,6 +9748,16 @@ vue@^2.6.11:
   resolved "https://registry.npm.taobao.org/vue/download/vue-2.6.11.tgz?cache=0&sync_timestamp=1589827615166&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvue%2Fdownload%2Fvue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"
   integrity sha1-dllNh31LEiNEBuhONSdcbVFBJcU=
 
+vuex-class-state2way@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/vuex-class-state2way/-/vuex-class-state2way-1.0.1.tgz#97139d116d54ee621d02cfb928d4cb194c0a0bfb"
+  integrity sha512-pbTKnknrkO0drJ9vv+w6yzb6oqBHySwfTi8ETpzwttO2Je+ELQ665e6qveOoKTW9Kqdb184t1VNDXYS4+N6D9w==
+
+vuex-class@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/vuex-class/-/vuex-class-0.3.2.tgz#c7e96a076c1682137d4d23a8dcfdc63f220e17a8"
+  integrity sha512-m0w7/FMsNcwJgunJeM+wcNaHzK2KX1K1rw2WUQf7Q16ndXHo7pflRyOV/E8795JO/7fstyjH3EgqBI4h4n4qXQ==
+
 vuex@^3.4.0:
   version "3.4.0"
   resolved "https://registry.npm.taobao.org/vuex/download/vuex-3.4.0.tgz#20cc086062d750769fce1febb34e7fceeaebde45"
